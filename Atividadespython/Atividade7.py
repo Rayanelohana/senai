@@ -1,6 +1,3 @@
-#Cálculo do valor total economizado em reais
-
-# Leitura da quantidade de cada tipo de moeda
 quantidade_moedas_1_real = int(input("Digite a quantidade de moedas de 1 real: "))
 quantidade_moedas_50_centavos = int(input("Digite a quantidade de moedas de 50 centavos: "))
 quantidade_moedas_25_centavos = int(input("Digite a quantidade de moedas de 25 centavos: "))

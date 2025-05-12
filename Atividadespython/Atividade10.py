@@ -1,5 +1,4 @@
-# Calcule o volume de uma caixa d'água cilíndrica.
-# Dados
+# Calcular o volume de uma caixa d'água cilíndrica.
 raio = float(input("Informe o raio da caixa d'água (em metros): "))
 altura = float(input("Informe a altura da caixa d'água (em metros): "))
 # Cálculo do volume
